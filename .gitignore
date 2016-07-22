@@ -1,0 +1,8 @@
+# Dependency directory
+node_modules
+
+# node logs
+npm-debug.log*
+
+# Mac annoyance
+.DS_Store
